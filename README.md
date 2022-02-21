@@ -1,7 +1,7 @@
 
 # Page Disney Plus 💙
 <li>Page Demo = https://mgodoyd.github.io/disneyplus-clone/ <br></li>
-<li>Directo del Proyecto = https://youtu.be/WHSusNX7ZPM<br></li>
+<li>Directo del Proyecto = <br></li>
 
 
 <hr>
